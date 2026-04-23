@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "name": "до 20 000 руб",
+      "min": 0, "max": 20000,
+      "phones": {
+        "игры": { "name": "Poco M6 Pro", "reason": "лучший экран 120гц за эти деньги", "nfc": true, "brands": ["Poco", "Xiaomi"] },
+        "работа": { "name": "Samsung Galaxy A15", "reason": "стабильный софт и долгая поддержка", "nfc": true, "brands": ["Samsung"] },
+        "фото": { "name": "Redmi Note 13", "reason": "камера 108мп с хорошей детализацией", "nfc": true, "brands": ["Redmi", "Xiaomi"] },
+        "общее": { "name": "Realme C55", "reason": "сбалансированный и надежный аппарат", "nfc": true, "brands": ["Realme"] }
+      }
+    },
+    {
+      "name": "20 000 - 50 000 руб",
+      "min": 20001, "max": 50000,
+      "phones": {
+        "игры": { "name": "Poco X6 Pro", "reason": "рекордная мощность процессора в классе", "nfc": true, "brands": ["Poco", "Xiaomi"] },
+        "работа": { "name": "Samsung Galaxy A55", "reason": "защита ip67 и отличная автономность", "nfc": true, "brands": ["Samsung"] },
+        "фото": { "name": "Google Pixel 7a", "reason": "лучшие алгоритмы обработки снимков", "nfc": true, "brands": ["Google"] },
+        "общее": { "name": "Nothing Phone (1)", "reason": "оригинальный дизайн и чистый андроид", "nfc": true, "brands": ["Nothing"] }
+      }
+    },
+    {
+      "name": "50 000 - 100 000 руб",
+      "min": 50001, "max": 100000,
+      "phones": {
+        "игры": { "name": "iPhone 15", "reason": "мощный чип и идеальная оптимизация игр", "nfc": true, "brands": ["Apple", "iPhone"] },
+        "работа": { "name": "OnePlus 12", "reason": "быстрая зарядка и многозадачность", "nfc": true, "brands": ["OnePlus"] },
+        "фото": { "name": "Xiaomi 14", "reason": "оптика leica в компактном исполнении", "nfc": true, "brands": ["Xiaomi"] },
+        "общее": { "name": "Google Pixel 8", "reason": "умные функции и долгая поддержка ai", "nfc": true, "brands": ["Google"] }
+      }
+    },
+    {
+      "name": "свыше 100 000 руб",
+      "min": 100001, "max": 999999,
+      "phones": {
+        "игры": { "name": "ASUS ROG Phone 8", "reason": "геймерский флагман с охлаждением", "nfc": true, "brands": ["Asus"] },
+        "работа": { "name": "Samsung Galaxy S24 Ultra", "reason": "лучший экран и стилус для записей", "nfc": true, "brands": ["Samsung"] },
+        "фото": { "name": "iPhone 15 Pro Max", "reason": "эталон видеосъемки и мощный зум", "nfc": true, "brands": ["Apple", "iPhone"] },
+        "общее": { "name": "Huawei Pura 70 Ultra", "reason": "лидер мобильной фотографии", "nfc": true, "brands": ["Huawei"] }
+      }
+    }
+  ]
+}
